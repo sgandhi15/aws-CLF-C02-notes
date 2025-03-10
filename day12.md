@@ -6,7 +6,7 @@
 ## Total Cost of Ownership (TCO)
 
 - A financial estimate for buyers and owners to determine cost of services
-  ![Total Cost of Ownership](./assets/total-cost-of-ownership.png)
+  ![Total Cost of Ownership](./assets/total-cost-of-owenership.png)
 
 - Research stated by Gartner indicates that cloud services can be initially more expensive than running on-premises data centers, but become more cost-effective over time as organizations learn to use and operate them efficiently
 
